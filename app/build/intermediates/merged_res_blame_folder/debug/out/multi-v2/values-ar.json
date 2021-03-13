@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sunjinyoon/Desktop/SimpleTweet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
+            "outputFile": "/Users/sunjinyoon/Desktop/Codepath/SimpleTweet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
             "map": [
                 {
                     "source": "/Users/sunjinyoon/.gradle/caches/transforms-2/files-2.1/4f9c7f78c15bb692cf0895b881aafbad/appcompat-1.2.0/res/values-ar/values-ar.xml",
